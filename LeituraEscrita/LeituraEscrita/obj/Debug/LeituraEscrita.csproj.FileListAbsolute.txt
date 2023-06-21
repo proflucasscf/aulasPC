@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\LeituraEscrita\LeituraEscrita\bin\Debug\LeituraEscrita.exe.config
+H:\Visual Studio 2022\Projects\LeituraEscrita\LeituraEscrita\bin\Debug\LeituraEscrita.exe
+H:\Visual Studio 2022\Projects\LeituraEscrita\LeituraEscrita\bin\Debug\LeituraEscrita.pdb
+H:\Visual Studio 2022\Projects\LeituraEscrita\LeituraEscrita\obj\Debug\LeituraEscrita.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\LeituraEscrita\LeituraEscrita\obj\Debug\LeituraEscrita.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\LeituraEscrita\LeituraEscrita\obj\Debug\LeituraEscrita.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\LeituraEscrita\LeituraEscrita\obj\Debug\LeituraEscrita.exe
+H:\Visual Studio 2022\Projects\LeituraEscrita\LeituraEscrita\obj\Debug\LeituraEscrita.pdb
