@@ -26,6 +26,11 @@ namespace LeituraEscrita
                 StreamReader sr = new StreamReader("H:\\teste.txt");
                 //Read the first line of text
                 line = sr.ReadLine();
+                line = sr.ReadLine();
+                line = sr.ReadLine();
+                line = sr.ReadLine();
+                line = sr.ReadLine();
+                line = sr.ReadLine();
                 //Continue to read until you reach end of file
                 while (line != null)
                 {
