@@ -30,7 +30,6 @@ namespace LeituraEscrita
                 line = sr.ReadLine();
                 line = sr.ReadLine();
                 line = sr.ReadLine();
-                line = sr.ReadLine();
                 //Continue to read until you reach end of file
                 while (line != null)
                 {
